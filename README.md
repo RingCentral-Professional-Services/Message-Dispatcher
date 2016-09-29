@@ -17,7 +17,7 @@ Clone the repository to your local system:
 [_Optionally, you can fork it first, but will need to modify the URI in the following command to match your fork's GIT repository._]
 
 ```
-git clone https://github.com/anilkumarbp/Message-Dispatcher.git
+git clone https://github.com/RingCentral-Professional-Services/Message-Dispatcher.git
 ```
 
 Change your working directory to the newly cloned repository:
