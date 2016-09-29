@@ -414,7 +414,7 @@ function handleSubscriptionNotification(msg) {
 
 function dialedNumberInvalidator(configValue, logValue) {
     configValue = configValue || process.env.FILTER_TO;
-    var validNumberFormatRegex = /^\+?[1]?(411|511|911)/; // Checks for e.164 and non-e.164 formats of 911,511,411 service numbers
+    var validNumberFormatRegex = /^\+?[1]?(411|511|911)$/; // Checks for e.164 and non-e.164 formats of 911,511,411 service numbers
     var errorMessage;
     if(!logValue) {
         errorMessage = 'Required parameter logValue was undefined or null when passed to the dialedNumberInvalidator function.';
