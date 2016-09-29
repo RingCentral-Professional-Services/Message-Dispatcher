@@ -116,7 +116,7 @@ Current used RCSDK version for this demo is :
 
 Project Repo
 
-* https://github.com/anilkumarbp/Message-Dispatcher
+* https://github.com/RingCentral-Professional-Services/Message-Dispatcher
 
 RingCentral SDK for JavaScript
 
@@ -134,7 +134,7 @@ RingCentral API Explorer
 
 Any reports of problems, comments or suggestions are most welcome.
 
-Please report these on [Message-Dispatcher's Issue Tracker in Github](https://github.com/anilkumarbp/Message-Dispatcher/issues).
+Please report these on [Message-Dispatcher's Issue Tracker in Github](https://github.com/RingCentral-Professional-Services/Message-Dispatcher/issues).
 
 ## License
 
